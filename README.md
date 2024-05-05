@@ -5,11 +5,11 @@ Overview
 The model is built using the MediaPipe framework for hand detection and tracking, and a custom deep learning model for gesture recognition. It uses a dataset of sign language gestures to train the model, and achieves an accuracy of 86% on the test set.
 
 Requirements  
-Python 3.x
-OpenCV
-MediaPipe
-TensorFlow
-NumPy
+Python 3.6+  
+OpenCV  
+MediaPipe  
+TensorFlow  
+NumPy  
 
 Installation  
 Clone the repository:  
