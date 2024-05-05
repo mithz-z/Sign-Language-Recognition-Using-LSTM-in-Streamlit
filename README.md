@@ -12,7 +12,7 @@ TensorFlow
 NumPy
 
 Installation  
-Clone the repository:
+Clone the repository:  
 ```git clone https://github.com/mithz-z/Sign-Language-Recognition-Using-LSTM-in-Streamlit.git```
 
 Install the required packages:  
