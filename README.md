@@ -18,8 +18,8 @@ Clone the repository:
 ## Install the required packages:  
 ```pip install -r requirements.txt```
 
-## Run the application:  
-```python Streamlit.py```
+## Run the application (must run inside an IDE):  
+```streamlit run Streamlit.py```
 
 ## Usage  
 1. Run the Streamlit.py file to start the application.
